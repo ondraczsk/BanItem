@@ -23,5 +23,5 @@ permissions:
         description: "Allows access to all BanItem commands."
         children:
           banitem.command.banitem:
-            default: op
+            default: false
             description: "Allows access to the item command."
